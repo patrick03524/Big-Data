@@ -1,8 +1,8 @@
 # Google File System
 
-Implementación básica de Google File System en Python
+Implementación básica de Google File System en Python del paper: The Google File System By Google, Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
 
-Paper Link: https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+Link del Paper: https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
 
 ## Ejecución:
 
